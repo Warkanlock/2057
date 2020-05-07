@@ -1,4 +1,6 @@
-## Cobalto
+# Cobalto
+
+---
 
 <p align="justify">
 Desde años que: ningún marco volvió a tener forma, ninguna ventana mira a las afueras, ninguna pared esconde un secreto. Las curvas, prohibidas por diseño, se asemejaban a lo que fueron aquellos vestigios de una sociedad abierta al cambio. Las formas nos daban a entender que de ideas se formaba el hombre. Frondosos parques, paredones llenos de humedad, ventanas que daban a ningún lado, reflejos que nos reflejan y nos entendían. Los vehículos, ahora de color mate, poseen una belleza extremadamente abstracta que solo es compatible con extrañas figuras del MoMa en los años 20. Cajas en movimiento que ahora llevan de un lugar a otro a un rebaño de gente, sin producir ningún tipo de sonido. Ni murmullos. ¿Adónde va toda esta gente? Muchos años pasaron y muchos parecen no entender que trabajar no era cumplir horas y es por eso que nadie asiste físicamente a sus oficinas. El concepto de oficina cambio y hoy en día nuestras oficinas no son más que salas virtuales a la espera de nuestra imagen y semejanza, en ciertas horas puntuales del día. Ya nadie trabaja en lugares físicos con contacto del material, a no ser que recurras a un lugar de bajo puntaje competitivo o no cumplas con las condiciones medicas mentales necesarias para hacerlo. 
@@ -7,8 +9,12 @@ Poco a poco, lo mecánico, aquello que nos producía una especie de conexión co
 
 <p align="justify">
 Con un trote lento Miko se posiciona rápidamente en la salida del vagón.
+  
+---
 
--¿Adonde vas tan apurado? Consulta un señor de unos veintitrés años a Miko.
+> -¿Adonde vas tan apurado? Consulta un señor de unos veintitrés años a Miko.
+
+---
 
 Miko lo mira, trata de entender las palabras mientras desactiva los bloqueadores auditivos y… Justo antes de contestar la puerta central del tren magnético abre sus puertas.
 
@@ -18,8 +24,12 @@ Son las siete de la mañana y hoy la gente parece un poco más contenta que ayer
 
 <p align="justify">
 Miko sigue su paso firme observando por el hombro como el vagón, en unos segundos, desaparece de la estación sin producir sonido alguno. Es curioso, como el diseño de sonidos avanzó al nivel de transmitirse por vibraciones en nuestros huesos en lugar de utilizar el oído y es por eso que hoy sin necesidad de tener dispositivos encima, podemos escuchar sonidos direccionales directamente a través de nuestros huesos craneales. El oído hoy se utiliza para realizar las pruebas sonoras del examen anual de Estatue, todos necesitan de cuidarlo y particularmente los auriculares digitales no son una buena opción a no ser que poseas sordera natal.
+  
+  ---
 
--Su identidad. - consulta un policía de unos dos metros quince.</p>
+> -Su identidad. -consulta un policía de unos dos metros quince.</p>
+
+---
 
 <p align="justify">
 Lentamente Miko saca de su bolsillo una moneda hexagonal plana, de un peso considerable y al acercarla al molino, está se ilumina de un color negro mate produciendo una especie de vibración. Esto, es la llave que abre todas las oportunidades. Conectada y sincronizada directamente con la red del Estatue te condecoraba día a día con el puntaje de tu último examen, y eso, lamentablemente, determinaba tu libertad dentro de la ciudad. En caso de ser blanca, tu nivel de entrada al barrio no cumplía los requerimientos necesarios y debes lamentablemente volver por donde viniste. No podías continuar tu paso y tu próxima parada era tu casa o algo peor, otros barrios en busca de nuestros trabajos. Cuidar: Tu trabajo, tu vida, tu estudio y tus gustos, estaba determinado por el poder de este pequeño artefacto que siempre llevaban las personas en su bolsillo. El examen. El silencio. La desesperación de no tenerlo. No podrías ingresar al subterráneo ni a los barrios en cuestión, ni a tu trabajó sin este dispositivo minúsculo, introducido por políticos de Bélgica en la década del 30 intentaba emular la situación de sociedad perfecta, donde por supuesto, sirvió de control masivo para empresas de sistemas monstruosas como Tencent
@@ -39,17 +49,27 @@ Es por eso, que las sombras, los subterráneos y los lugares por debajo de las t
 Miko después de una caminata de unas veinte terrazas llega a lo que parece ser un parque recreativo. Sillas de estudio, arboles digitales y música obligatoria concentración. Miko mira a sus alrededores y con sospechas empieza a recorrer el perfil de uno de los bancos con sus dedos. Desde los bordes finos hasta las tablas por debajo del banco, Miko buscaba algo...</p>
 
 <p align="justify">
--Miko, ¿Como estás?-una voz tacita y firme lo aturde en espera de contestación. Con miedo gira lentamente desde su posición finalmente para observar una figura de unos metro noventa parado justo detrás.</p>
+-Miko, ¿Como estás? -una voz tacita y firme lo aturde en espera de contestación. Con miedo gira lentamente desde su posición finalmente para observar una figura de unos metro noventa parado justo detrás.</p>
 
-<p align="justify">
--Yuri, me asustaste y eso que las ciudades ahora respiran mejor. -ambos muevan en busca de una risa cómplice.
--Coincido pero ¿que haces acá?
--Estoy buscando la moneda de Ruben, la dejo magnetizada en algún lugar de este banco pero no la encuentro...
--¿Moneda?
--Claro, la moneda copiada con las calificaciones necesarias para entrar.
--¿Entrar?, perdóname pero no te estoy siguiendo...¿Adonde?
--Miko lo mira, se ríe despacio y sigue buscando, girando por completo el cuerpo y dándole la espalda a Yuri.
--Bueno, después nos vemos Miko.</p>
+---
+
+> -Yuri, me asustaste y eso que las ciudades ahora respiran mejor. -ambos muevan en busca de una risa cómplice.
+
+> -Coincido pero ¿que haces acá?
+  
+> -Estoy buscando la moneda de Ruben, la dejo magnetizada en algún lugar de este banco pero no la encuentro...
+  
+> -¿Moneda?
+  
+> -Claro, la moneda copiada con las calificaciones necesarias para entrar.
+  
+> -¿Entrar?, perdóname pero no te estoy siguiendo...¿Adonde?
+  
+> -Miko lo mira, se ríe despacio y sigue buscando, girando por completo el cuerpo y dándole la espalda a Yuri.
+  
+> -Bueno, después nos vemos Miko.
+
+---
 
 <p align="justify">
 Miko mira sin contestar y sigue buscando, Yuri mira lentamente hacia atrás unos metros adelante y puede ver la alegría en el rostro de Miko encontrando la moneda, estaba casi al nivel del piso en la estación de carga del banco publico. Toma la moneda y activa el paso lentamente directo al Parlamento.</p>
@@ -58,19 +78,32 @@ Miko mira sin contestar y sigue buscando, Yuri mira lentamente hacia atrás unos
 El parlamento era un gigantesco edificio, en el cual en el pasado: senadores, diputados y demás políticos, se juntaban a dialogar por un pueblo dormido. Un lugar donde unas cien personas definían el futuro de unas cuantas miles de millones. Poco a poco con el pasar de los años y el avance cultural por la cultura de la inteligencia, ese mismo sistema colapso por su propio peso. Los políticos comenzaron a ser activistas de la red en lugar de viejos incultos e inexpertos en nuevos campos de interés. [Hacerse] mal llamados en la década del 20, comenzaron a pisar aún más en los diálogos para con países y comenzaron a definir, moldear y diseñar un sistema bajo sus propias reglas. Comenzó con Gates en los 90 del siglo pasado, luego Bezos, ambos implantaron la importancia de los sistemas para con la sociedad y es así como la ignorancia que abundaba en el Parlamento sucumbió al poder de la inteligencia, Las Eras de las Eras Doradas (como le llamaban ciertos diarios digitales de la época) de una vez por todas.</p>
 
 <p align="justify">
--Miko, ¿que haces por acá tanto tiempo? -alguien a quien Miko no recordaba lo frena pero por el rostro de Miko parece darse cuenta de la situación.
--Vengo a pasar unas horas muertas, conseguí una moneda para ir al under.</p>
+---
+  
+> -Miko, ¿que haces por acá tanto tiempo? -alguien a quien Miko no recordaba lo frena pero por el rostro de Miko parece darse cuenta de la situación.
 
+> -Vengo a pasar unas horas muertas, conseguí una moneda para ir al under.</p>
+
+---
 <p align="justify">
 Miko despega casi corriendo de la parada repentina del extraño y a unas cuantas terrazas de distancia puede escuchar a la distancia una conjunción de sonidos entrelazados. "Una rítmica forma de estructurar las matemáticas" lo llamaban en las cadenas de difusión masiva. Era una forma libre de bailar, en donde priorizaba la forma de los sonidos por sobre los objetivos morales de la persona. Ritmos acompasados, específicamente-temporales, atonales, diseñados específicamente para otorgarle al cuerpo la situación perfecta de bienestar. Esquivando "zombies", Miko se hace paso lentamente por la pista de baile y alcanza al DJ, el cual no es más que una especie de maquina inteligente en el cual la lista musical de la noche, en ponderación de tus gustos y el de todos los invitados, se va modificando. Tus gustos determinaban que se bailaba y al tempo en el que se escuchaba, incluso el volumen y la conjunción de gustos determinaban la prioridad de las canciones. Aquel que arruine el algoritmo de la noche, era retirado del lugar, sin espacio para excusas. Miko, quien amaba la música, siempre era una especie de placer divino en el lugar.</p>
 
 <p align="justify">
--Miko! -lo aborda un extraño con rasgos polacos.
--Sorry but...
--No no, no hablo ingles, ni ruso, ni polaco, hablo español. Yuri me mando...
--¿Yuri?
--Si, necesito tu moneda.
--No tengo ningúna moneda, la unica que poseo me permite volver a casa.</p>
+ ---
+  
+> -Miko! -lo aborda un extraño con rasgos polacos.
+
+> -Sorry but...
+
+> -No no, no hablo ingles, ni ruso, ni polaco, hablo español. Yuri me mando...
+
+> -¿Yuri?
+
+> -Si, necesito tu moneda.
+
+> -No tengo ningúna moneda, la unica que poseo me permite volver a casa.</p>
+
+---
 
 <p align="justify">
 La conversación, tornandose segundo a segundo, más tensa, parece desembocar en la puerta de un baño publico a las afueras del patio del lugar.</p>
