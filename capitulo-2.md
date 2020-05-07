@@ -77,8 +77,8 @@ Miko mira sin contestar y sigue buscando, Yuri mira lentamente hacia atrás unos
 <p align="justify">
 El parlamento era un gigantesco edificio, en el cual en el pasado: senadores, diputados y demás políticos, se juntaban a dialogar por un pueblo dormido. Un lugar donde unas cien personas definían el futuro de unas cuantas miles de millones. Poco a poco con el pasar de los años y el avance cultural por la cultura de la inteligencia, ese mismo sistema colapso por su propio peso. Los políticos comenzaron a ser activistas de la red en lugar de viejos incultos e inexpertos en nuevos campos de interés. [Hacerse] mal llamados en la década del 20, comenzaron a pisar aún más en los diálogos para con países y comenzaron a definir, moldear y diseñar un sistema bajo sus propias reglas. Comenzó con Gates en los 90 del siglo pasado, luego Bezos, ambos implantaron la importancia de los sistemas para con la sociedad y es así como la ignorancia que abundaba en el Parlamento sucumbió al poder de la inteligencia, Las Eras de las Eras Doradas (como le llamaban ciertos diarios digitales de la época) de una vez por todas.</p>
 
-<p align="justify">
 ---
+<p align="justify">
   
 > -Miko, ¿que haces por acá tanto tiempo? -alguien a quien Miko no recordaba lo frena pero por el rostro de Miko parece darse cuenta de la situación.
 
