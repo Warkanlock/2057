@@ -1,4 +1,6 @@
-## Cobalto
+# Cobalto
+
+---
 
 <p align="justify">
 Desde años que: ningún marco volvió a tener forma, ninguna ventana mira a las afueras, ninguna pared esconde un secreto. Las curvas, prohibidas por diseño, se asemejaban a lo que fueron aquellos vestigios de una sociedad abierta al cambio. Las formas nos daban a entender que de ideas se formaba el hombre. Frondosos parques, paredones llenos de humedad, ventanas que daban a ningún lado, reflejos que nos reflejan y nos entendían. Los vehículos, ahora de color mate, poseen una belleza extremadamente abstracta que solo es compatible con extrañas figuras del MoMa en los años 20 o el CyberTruck de Tesla. Cajas en movimiento que ahora llevan desde un lugar a otro a un rebaño de gente, sin producir ningún tipo de sonido. Ni murmullos. ¿Adónde va toda está gente?
@@ -11,6 +13,10 @@ Hoy, 2057, las curvas humanas dejaron de existir ya desde hace diez años. Ning�
 </p>
 
 Con un trote lento Miko se posiciona rápidamente en la salida del vagón.
+
+---
+
+> -¿Adonde vas tan apurado? Consulta un señor de unos veintitrés años a Miko.
 
 > —¿Adonde vas tan apurado? Consulta un señor de unos veintitrés años a Miko.
 
