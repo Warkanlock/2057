@@ -111,5 +111,7 @@ Miko lo observa, casi sin caer en cuenta la persona frente a Miko saca una espec
 </p>
 
 <p align="justify">
-Mientras lo acercaba al rostro de Miko, esté le lanza con todas sus fuerzas un empujon, logrando activar las alarmas de luz del club y parar la música. Desde la década del cuarenta que todos los lugares en los que se celebraban fiestas debían tener este sistema de defensa, para prevenir actos violentos o asesinatos. Miko mira a su alrededor, cientos de personas observando la situación, quedando petrificado...mira fijamente la cara del agresor, que bajo las luces encendidas no era tanto polaco sino más occidental. Ahora el golpista en el sueldo, lo mira con ojos de serpiente y Miko suspira, no puede caer en cuenta lo que esta viendo...
+Mientras lo acercaba al rostro de Miko, esté le lanza con todas sus fuerzas un empujon, logrando activar las alarmas de luz del club y parar la música. Desde la década del cuarenta que todos los lugares en los que se celebraban fiestas debían tener este sistema de defensa, para prevenir actos violentos o asesinatos. Miko mira a su alrededor, cientos de personas observando la situación, quedando petrificado...mira fijamente la cara del agresor, que bajo las luces encendidas no era tanto polaco sino más occidental. Ahora el golpista en el suelo, lo mira con ojos de serpiente. 
+  
+  Miko suspira, no puede caer en cuenta lo que esta viendo...
 </p>
