@@ -107,9 +107,9 @@ La conversación, tornandose segundo a segundo, más tensa, parece desembocar en
 ---
 
 <p align="justify">
-Miko lo observa, casi sin caer en cuenta la persona frente a Miko saca una especie de lápiz, en lo que Miko entendía lo que era. Un inhibidor temporal de hipotálamos. Una especie de shock temporal para el cerebro el cual prohibía movimientos y situaciones morales. Te convertías en una especie de maquina que acataba ordenes.
+Miko lo observa, casi sin caer en cuenta la persona frente a Miko saca una especie de lápiz, en lo que Miko entendio de lo que se trataba. Un inhibidor temporal de hipotálamos. Una especie de shock temporal para el cerebro el cual prohibía movimientos y situaciones morales. Te convertías en una especie de maquina que acataba ordenes.
 </p>
 
 <p align="justify">
-Mientras lo acercaba al rostro de Miko, esté le lanza con todas sus fuerzas un empujo, logrando activar las alarmas de luz del lugar y parar la música. Desde la década del cuarenta que todos los lugares en los que se celebraban fiestas debían tener este sistema de defensa, para prevenir actos violentos o asesinatos. Miko mira a su alrededor, cientos de personas observando la situación, quedando petrificado...mira fijamente la cara del agresor, que bajo las luces encendidas no era tanto polaco sino más occidental. Ahora el golpista en el sueldo, lo mira con ojos de serpiente y Miko suspira, no puede caer en cuenta lo que esta viendo...
+Mientras lo acercaba al rostro de Miko, esté le lanza con todas sus fuerzas un empujon, logrando activar las alarmas de luz del club y parar la música. Desde la década del cuarenta que todos los lugares en los que se celebraban fiestas debían tener este sistema de defensa, para prevenir actos violentos o asesinatos. Miko mira a su alrededor, cientos de personas observando la situación, quedando petrificado...mira fijamente la cara del agresor, que bajo las luces encendidas no era tanto polaco sino más occidental. Ahora el golpista en el sueldo, lo mira con ojos de serpiente y Miko suspira, no puede caer en cuenta lo que esta viendo...
 </p>
