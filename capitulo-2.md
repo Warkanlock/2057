@@ -14,10 +14,6 @@ Hoy, 2057, las curvas humanas dejaron de existir ya desde hace diez años. Ning�
 
 Con un trote lento Miko se posiciona rápidamente en la salida del vagón.
 
----
-
-> -¿Adonde vas tan apurado? Consulta un señor de unos veintitrés años a Miko.
-
 > —¿Adonde vas tan apurado? Consulta un señor de unos veintitrés años a Miko.
 
 Miko lo mira, trata de entender las palabras mientras desactiva los bloqueadores auditivos y… Justo antes de contestar la puerta central del tren magnético abre sus puertas.
