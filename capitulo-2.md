@@ -75,11 +75,11 @@ Miko mira sin contestar y sigue buscando, Yuri mira lentamente hacia atrás unos
 <p align="justify">
 El parlamento era un gigantesco edificio, en el cual en el pasado: senadores, diputados y demás políticos, se juntaban a dialogar por un pueblo dormido. Un lugar donde unas cien personas definían el futuro de unos cuantos miles de millones. Poco a poco con el pasar de los años y el avance cultural por la cultura de la inteligencia, ese mismo sistema colapso por su propio peso. Los políticos comenzaron a ser activistas de la red en lugar de viejos incultos e inexpertos en nuevos campos de interés. [Hacerse] mal llamados en la década del 20, comenzaron a pisar aún más en los diálogos para con países y comenzaron a definir, moldear y diseñar un sistema bajo sus propias reglas. Comenzó con Gates en los 90 del siglo pasado, luego Bezos, ambos implantaron la importancia de los sistemas para con la sociedad y es así como la ignorancia que abundaba en el Parlamento sucumbió al poder de la inteligencia, Las Eras de las Eras Doradas (como le llamaban ciertos diarios digitales de la época) de una vez por todas.
 </p>
-—Miko, ¿que haces por acá tanto tiempo? —alguien a quien Miko no recordaba lo frena pero por el rostro de Miko parece darse cuenta de la situación.
+—Miko, ¿Qué haces por acá tanto tiempo? —alguien a quien Miko no recordaba lo frena pero por el rostro de Miko parece darse cuenta de la situación.
 —Vengo a pasar unas horas muertas, conseguí una moneda para ir al under.
 
 <p align="justify">
-Miko despega casi corriendo de la parada repentina del extraño y a unas cuantas terrazas de distancia puede escuchar a la distancia una conjunción de sonidos entrelazados. "Una rítmica forma de estructurar las matemáticas" lo llamaban en las cadenas de difusión masiva. Era una forma libre de bailar, en donde priorizaba la forma de los sonidos por sobre los objetivos morales de la persona. Ritmos acompasados, específicamente—temporales, atonales, diseñados específicamente para otorgarle al cuerpo la situación perfecta de bienestar. Esquivando "zombies", Miko se hace paso lentamente por la pista de baile y alcanza al DJ, el cual no es más que una especie de maquina inteligente en el cual la lista musical de la noche, en ponderación de tus gustos y el de todos los invitados, se va modificando. Tus gustos determinaban que se bailaba y al tempo en el que se escuchaba, incluso el volumen y la conjunción de gustos determinaban la prioridad de las canciones. Aquel que arruine el algoritmo de la noche, era retirado del lugar, sin espacio para excusas. Miko, quien amaba la música, siempre era una especie de placer divino en el lugar.
+Miko despega casi corriendo de la parada repentina del extraño y a unas cuantas terrazas de distancia puede escuchar a la distancia una conjunción de sonidos entrelazados. "Una rítmica forma de estructurar las matemáticas" lo llamaban en las cadenas de difusión masiva. Era una forma libre de bailar, en donde priorizaba la forma de los sonidos por sobre los objetivos morales de la persona. Ritmos acompasados, específicamente—temporales, atonales, diseñados específicamente para otorgarle al cuerpo la situación perfecta de bienestar. Esquivando "zombies", Miko se hace paso lentamente por la pista de baile y alcanza al DJ, el cual no es más que una especie de máquina inteligente en el cual la lista musical de la noche, en ponderación de tus gustos y el de todos los invitados, se va modificando. Tus gustos determinaban que se bailaba y al tempo en el que se escuchaba, incluso el volumen y la conjunción de gustos determinaban la prioridad de las canciones. Aquel que arruine el algoritmo de la noche, era retirado del lugar, sin espacio para excusas. Miko, quien amaba la música, siempre era una especie de placer divino en el lugar.
 </p>
 
 ---
@@ -88,7 +88,7 @@ Miko despega casi corriendo de la parada repentina del extraño y a unas cuantas
 
 > —Sorry but...
 
-> —No no, no me vengas con el ingles, se dejo de hablar años... ni ruso, ni polaco. Hablo español. Yuri me mandá...
+> —No, no me vengas con el inglés, se dejó de hablar años... ni ruso, ni polaco. Hablo español. Yuri me mandá...
 
 > —¿Yuri?
 
@@ -98,7 +98,7 @@ Miko despega casi corriendo de la parada repentina del extraño y a unas cuantas
 
 La conversación, tornandose segundo a segundo, más tensa, parece desembocar en la puerta de un baño publico a las afueras del patio del lugar.
 
-> —La necesito, no tú moneda, sino "ésa" moneda. —Mientras señalaba sus bolsillos.
+> —La necesito, no la moneda, sino "esa" moneda. —Mientras señalaba sus bolsillos.
 
 > —No, esto lo conseguí a un precio especial.
 
@@ -107,11 +107,11 @@ La conversación, tornandose segundo a segundo, más tensa, parece desembocar en
 ---
 
 <p align="justify">
-Miko lo observa, casi sin caer en cuenta la persona frente a Miko saca una especie de lápiz, en lo que Miko entendio de lo que se trataba. Un inhibidor temporal de hipotálamos. Una especie de shock temporal para el cerebro el cual prohibía movimientos y situaciones morales. Te convertías en una especie de maquina que acataba ordenes.
+Miko lo observa, casi sin caer en cuenta la persona frente a Miko saca una especie de lápiz, en lo que Miko entendio de lo que se trataba. Un inhibidor temporal de hipotálamos. Una especie de shock temporal para el cerebro el cual prohibía movimientos y situaciones morales. Te convertías en una especie de máquina que acataba ordenes.
 </p>
 
 <p align="justify">
 Mientras lo acercaba al rostro de Miko, esté le lanza con todas sus fuerzas un empujon, logrando activar las alarmas de luz del club y parar la música. Desde la década del cuarenta que todos los lugares en los que se celebraban fiestas debían tener este sistema de defensa, para prevenir actos violentos o asesinatos. Miko mira a su alrededor, cientos de personas observando la situación, quedando petrificado...mira fijamente la cara del agresor, que bajo las luces encendidas no era tanto polaco sino más occidental. Ahora el golpista en el suelo, lo mira con ojos de serpiente. 
   
-  Miko suspira, no puede caer en cuenta lo que esta viendo...
+  Miko suspira, no puede caer en cuenta lo que está viendo...
 </p>
