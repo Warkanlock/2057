@@ -51,7 +51,7 @@ Intrigantes estructuras de concreto que se achatan en dirección a lo que alguna
 </p>
 
 <p align="justify">
-Tal vez a nosotros nos crearon los que crean...Es que un pez nunca sabe lo que pasa con los pescados y es porque no fueron diseñados para eso. Nuestra causa, por mucho énfasis que le incluyamos, no contiene la fuerza que nos hará libres. Es imposible genera(nos). La imposibilidad existe, como en el dibujo y la mano del dibujante de Escher, como una paradoja: las paradojas existen. La mano que nos dibuja sabrá siempre que no podemos tocarla o merecerla. La única manera de entenderla es mediante el lenguaje que nos controla que no podemos ver: símbolos matemáticos, lógica, física, existencia. El idioma, con sus errores y sus virtudes nos permite dejar el legado que buscamos pero siempre nos quedarán preguntas sin respuestas y es que la pregunta debería ser: ¿Qué existido primero, las preguntas o las respuestas?.
+Tal vez a nosotros nos crearon los que crean...Es que un pez nunca sabe lo que pasa con los pescados, no fueron diseñados para eso. Nuestra causa, por mucho énfasis que le incluyamos, no contiene la fuerza que nos hará libres. Es imposible generar(nos). La imposibilidad existe, como en el dibujo y la mano del dibujante de Escher, como una paradoja: las paradojas existen. La mano que nos dibuja sabrá siempre que no podemos tocarla o merecerla. La única manera de entenderla es mediante el lenguaje que nos controla que no podemos ver: símbolos matemáticos, lógica, física, existencia. El idioma, con sus errores y sus virtudes nos permite dejar el legado que buscamos pero siempre nos quedarán preguntas sin respuestas y es que la pregunta debería ser: ¿Qué existido primero, las preguntas o las respuestas?.
 </p>
 
 <p align="justify">
