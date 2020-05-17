@@ -6,5 +6,7 @@
 
 [2. Cobalto](https://github.com/Warkanlock/2057/blob/master/capitulo-2.md)
 
+[3. Sin títulos](https://github.com/Warkanlock/2057/blob/master/capitulo-3.md)
+
 Cuento liberado por capitulos mensuales.
 _*Para leerlo puede ingresar a [2057 website](https://warkanlock.github.io/2057/) o click en enlace para ir directamente al archivo*_
