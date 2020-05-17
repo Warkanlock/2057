@@ -55,5 +55,5 @@ Tal vez a nosotros nos crearon los que crean...Es que un pez nunca sabe lo que p
 </p>
 
 <p align="justify">
-Se necesita de la fuerza de una nación, toda lo humanamente posible y la capacidad intelectualmente global, para entender que las únicas causas que nos cambian son las colectivas. Ni más, ni menos. Todo aquello que alguna vez nos toco, lo que tuvo oportunidad de existir en el mismo instante de aceleración que nosotros, eso, justamente todo eso que nos rodea en este preciso instante, es afortunado de poder tocarnos, rozarnos y lo más importante...existir.
+Se necesita de la fuerza de una nación, toda lo humanamente posible y la capacidad intelectualmente global, para entender que las únicas causas que nos cambian son las colectivas. Ni más, ni menos. Todo aquello que alguna vez nos toco, lo que tuvo oportunidad de existir en el mismo instante de aceleración que nosotros, eso, justamente todo eso que nos rodea en este preciso instante: es afortunado de poder tocarnos, rozarnos y lo más importante...de existir.
 </p>
